@@ -29,5 +29,3 @@ module.exports = function transform(arr) {
     throw new Error('Argument is not an array');
   }
 };
-
-
